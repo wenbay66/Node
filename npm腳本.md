@@ -1,6 +1,6 @@
-# Node 開發離不開 npm, 腳本功能是 npm 最常用、最強大的功能之一
+## Node 開發離不開 npm, 腳本功能是 npm 最常用、最強大的功能之一
 
-#### npm 允許在 package.json 使用 scripts 字段定義腳本命令
+# npm 允許在 package.json 使用 scripts 字段定義腳本命令
 ```javascript
 "scripts": {
   "build": "node build.js",
