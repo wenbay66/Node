@@ -1,0 +1,17 @@
+{
+  "name": "nodeTest",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "Script1": "node ./Code/Script1.js",
+    "build": "echo $npm_package_config_env"
+  },
+  "config": {
+    "env": "product"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
