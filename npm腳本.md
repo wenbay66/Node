@@ -5,7 +5,7 @@
 "scripts": {
   "build": "node build.js",
   "test1": "node ./Code/test1.js",
-  "test2": "node ./Code/test1.js && node ./Code/test2.js" ,
+  "test2": "node ./Code/test1.js && node ./Code/test2.js",
   "build1": "echo $npm_package_config_env"
 },
 "config": {
